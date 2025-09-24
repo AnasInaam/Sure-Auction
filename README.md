@@ -36,7 +36,7 @@ This system supports secure login via **httpOnly cookies**, tracks device & loca
 ## Folder Structure
 
 ```
-online-auction-system/
+Sure-Auction/
 ├── client/                    # React frontend
 │   ├── public/               # Static assets
 │   ├── src/
@@ -98,7 +98,9 @@ VITE_AUCTION_API=http://localhost:3000/auction
 
 ### 1. Clone the Repository
 
-
+```bash
+git clone https://github.com/AnasInaam/Sure-Auction.git
+cd Sure-Auction
 ```
 
 ### 2. Setup Backend
@@ -348,7 +350,7 @@ We welcome contributions! Here's how you can help improve the project:
 
 1. **Fork the repository**
    ```bash
-   git clone
+   git clone https://github.com/AnasInaam/Sure-Auction.git
    ```
 
 2. **Create a feature branch**

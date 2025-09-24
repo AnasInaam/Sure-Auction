@@ -4,12 +4,17 @@
   "description": "backend for online auction system",
   "main": "index.js",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnasInaam/Sure-Auction.git"
+  },
+  "homepage": "https://github.com/AnasInaam/Sure-Auction#readme",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
-  "author": "Avnish Kumar",
+  "author": "AnasInaam",
   "license": "MIT",
   "type": "module",
   "dependencies": {

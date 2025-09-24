@@ -83,23 +83,23 @@ export const About = () => {
                   <p>
                     <span className="font-medium">GitHub Profile:</span>{" "}
                     <a
-                      href="https://github.com/theavnishkumar"
+                      href="https://github.com/AnasInaam"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-blue-600 hover:text-blue-800 underline"
                     >
-                      github.com/theavnishkumar
+                      github.com/AnasInaam
                     </a>
                   </p>
                   <p>
                     <span className="font-medium">Project Repository:</span>{" "}
                     <a
-                      href="https://github.com/theavnishkumar/online-auction-system"
+                      href="https://github.com/AnasInaam/Sure-Auction"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-blue-600 hover:text-blue-800 underline"
                     >
-                      github.com/theavnishkumar/online-auction-system
+                      github.com/AnasInaam/Sure-Auction
                     </a>
                   </p>
                 </div>
