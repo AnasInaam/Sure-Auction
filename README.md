@@ -3,7 +3,7 @@
 
 An **Online Auction System** built with the **MERN stack (MongoDB, Express, React, Node.js)** that allows users to create auctions, upload images, and bid on products in real-time. Features include a comprehensive **Admin Dashboard** for managing auctions and users, secure authentication, and real-time device tracking.
 
-> 🎓 **Major project / Minor project** for Computer Science Engineering – built by **Avnish Kumar** for full-stack learning and portfolio development.
+> 🎓 **Major project / Minor project** for Computer Science Engineering – built by **AnasInaam** for full-stack learning and portfolio development.
 
 This system supports secure login via **httpOnly cookies**, tracks device & location on login, role-based access control with admin privileges, and is structured with clean code using modern tools like **Redux Toolkit**, **React Router v7**, and **Cloudinary**.
 
@@ -348,7 +348,7 @@ We welcome contributions! Here's how you can help improve the project:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/your-username/online-auction-system.git
+   git clone
    ```
 
 2. **Create a feature branch**
